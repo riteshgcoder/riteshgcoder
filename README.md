@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I am always looking for challenging work opportunity ahead.
 - 💬 Ask me about ...
 - 📫 How to reach me:guptaritesh1410@gmail.com
+n
 - 😄 Pronouns: ...He/his
 - ⚡ 
 -->
