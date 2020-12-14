@@ -11,7 +11,7 @@ Gist about me
 - 🚀 I am always looking for challenging work opportunity ahead.
 - 🎯 I try to Go beyond and push the bounds
 - 📫 How to reach me: 📧guptaritesh1410@gmail.com
-- ⚡ Proficient in: python-jupyter notebook-pandas-numpy-sklearn-matplotlib-scipy-vs code-sql-seaborn-computer vision-linux
+- ⚡ Proficient in: python-jupyter notebook-Colab-pandas-numpy-sklearn-matplotlib-scipy-vs code-sql-seaborn-computer vision-linux
 - 🔗 My linkedin profile: [check out](https://www.linkedin.com/in/ritesh-gupta-811128174/)
 
 
