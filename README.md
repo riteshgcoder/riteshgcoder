@@ -6,7 +6,7 @@
 Gist about me
 
  
-- 🌟 I am a passonate python developer and Data Analyst.
+- 🌟 I am a passonate iOS developer and Data Analyst.
 - 💻 Learning everyday, currently learning to Machine Learning from Coursera.
 - 🚀 I am always looking for challenging work opportunity ahead.
 - 🎯 I try to Go beyond and push the bounds
